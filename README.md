@@ -1,2 +1,3 @@
-# contact
-new repos
+# maven-project
+
+Simple Maven Project
